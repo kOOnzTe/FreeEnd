@@ -1,0 +1,477 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 6000px;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.all-body {
+    width: 100%;
+    height: 4000px;
+    height: 5000px;
+
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+.container {
+    padding: 240px;
+}
+
+.cont-timeline {
+    padding-top: 20px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.cont-timeline-second {
+    padding-top: 20px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text-area {
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    color: white;
+}
+
+
+.image-post-card {
+    max-width: 200px;
+}
+
+.text-label {
+    padding-left: 10px;
+}
+
+.input-share {
+    width: 300px;
+}
+
+.post-image {
+    height: auto;
+    max-width: 400px;
+    height: 200px;
+}
+
+
+.form-section {
+    width: 772px;
+    margin: 0 auto;
+}
+
+.card {
+    width: 100%;
+    max-width: 382px;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 7px;
+    overflow: hidden;
+    height: 100%;
+    margin-bottom: 100px;
+    border: 6px solid #ffffff8c;
+    background-color: #182339;
+}
+
+
+.card .card-title {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.friend-req-modal {
+    background: linear-gradient(to top, #09203f 0%, #000000 100%);
+}
+
+.modal .modal-footer {
+
+    background: #0a182ca1;
+}
+
+.card .card-content {
+    padding: 16px;
+}
+
+
+.card-content-beg {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.thumbs {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+.thumb {
+    border-radius: 6px;
+}
+
+.result-text {
+    color: white;
+    margin-left: 70px;
+
+}
+
+.collection .collection-item {
+    background-color: #182339;
+}
+
+.circle {
+
+    border: 1px solid white;
+}
+
+
+.card-action {
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.like-unlike {
+    border-radius: 20px;
+}
+
+
+.modal-text {
+    color: white;
+}
+
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-small):not(.btn-large):not(.btn-floating) {
+
+    color: white;
+}
+
+.card-width {
+    width: 200px;
+    margin-right: auto;
+
+    height: 100%;
+    max-height: fit-content;
+    margin-top: 20px;
+}
+
+.card-width:hover {
+    transform: scale(1.05);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.load-more {
+
+    margin: -77px auto;
+}
+
+
+
+.collection .collection-item.avatar {
+    min-height: 0px;
+}
+
+.all-cards {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    max-width: 907px;
+    flex-wrap: wrap;
+}
+
+.my-post {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col-search {
+    margin: 12px;
+    margin-right: auto;
+    height: 100%;
+}
+
+.posts-post-image {
+    width: 200px;
+    height: 220px;
+    border: 1px solid white;
+}
+
+.posts-post-text {
+    color: white;
+}
+
+.search-results {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    max-width: 907px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.all-nav {
+    background: white;
+    width: 30%;
+    margin: 30px auto;
+    border: 1px solid #ffffff9d;
+    border-radius: 20px;
+    background: linear-gradient(to top, #09203f 0%, #000000 100%);
+}
+
+.validate {
+    color: white;
+}
+
+.icon-attach {
+    display: inline;
+}
+
+.icon-white {
+    color: white;
+}
+
+.button-image {
+    width: 10%;
+}
+
+.file-text {
+
+    margin-left: 26px;
+}
+
+.icon-white-2 {
+    color: white;
+}
+
+.project-name {
+
+    text-align: center;
+    align-items: center;
+
+    margin: 0 auto;
+    display: flex;
+
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+}
+
+.add {
+    display: flex;
+}
+
+.icon-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+
+.center2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-input {
+    border: 2px solid #ffffff;
+    width: 300px;
+
+    border-radius: 12px;
+}
+
+.register-title {
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 42px;
+    font-weight: 700;
+    margin: 40px auto;
+    text-align: center;
+    color: white;
+}
+
+
+.icon {
+
+    margin-top: 10px;
+}
+
+nav i.material-icons {
+    display: inline;
+}
+
+.header-all {
+
+    display: flex;
+}
+
+.reg-text {
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+.collection {
+    border: none;
+}
+
+.button {
+
+
+    background: linear-gradient(to top, #09203f 0%, #000000 100%);
+    border: 1px solid white;
+    padding: 16px;
+    color: white;
+}
+
+.button-image-profile {
+    background: linear-gradient(to top, #09203f 0%, #000000 100%);
+
+
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-search {
+    background: linear-gradient(to top, #09203f 0%, #000000 100%);
+    border: 1px solid white;
+
+    color: white;
+    margin-left: 26px;
+}
+
+.button-search:hover {
+    background: linear-gradient(to top, #3a7fc3 0%, #694ede 100%);
+}
+
+.button-image-profile:hover {
+    background: linear-gradient(to top, #3a7fc3 0%, #694ede 100%);
+}
+
+.button:hover {
+    background: linear-gradient(to top, #3a7fc3 0%, #694ede 100%);
+}
+
+.button-text {
+    color: white;
+}
+
+.all-sections {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.exit-icon {
+    padding: 10px;
+}
+
+.log-text {
+    position: relative;
+    background: linear-gradient(to top, #09203f 0%, #000000 100%);
+    border: 1px solid white;
+    color: white;
+    padding: 4px;
+    font-size: 16px;
+    display: inline-block;
+    display: flex;
+
+    align-items: center;
+    font-weight: 600;
+    top: 20px;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}
+
+.log-text-2 {
+    color: white;
+    padding: 4px;
+    font-size: 16px;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    justify-content: center;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.log-text:hover {
+    background: linear-gradient(to top, #3a7fc3 0%, #694ede 100%);
+}
+
+.logout-text {
+    margin-left: 8px;
+}
+
+.btn-width {
+    width: 100px;
+    height: 40px;
+}
+
+.btn-width-post {
+    width: 100px;
+    height: 40px;
+    margin: 22px;
+}
+
+.btn-width-2 {
+    width: 60px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.my-posts-list {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 700px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.file-field input.file-path {
+    border-bottom: 1px solid white;
+}
+
+.thumb-text-text {
+    color: red;
+}
+
+.logout-section {
+    display: flex;
+    align-items: center;
+    width: 400px;
+}
+
+.friend-modal {
+    margin: 32px;
+}
+
+.friend-modal-remove {
+    margin-top: 12px;
+}
