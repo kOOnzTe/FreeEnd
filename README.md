@@ -3,12 +3,23 @@
 #### This is a simple social media website as a backend project, including HTML, CSS, AJAX(jQuery), and PHP. 
 
 ##### Contributors: Alper Çelik, Davut Durmaz, Ahmet, Yiğithan Döler
-![1](https://github.com/kOOnzTe/256BackendProject/assets/53222156/f0454f12-5de7-47eb-a363-a3511418abe0)
+![1](https://github.com/kOOnzTe/FreeEnd/assets/53222156/a55cb608-fe30-4b09-937a-bc48c2fcf443)
+
+
 --
-![2](https://github.com/kOOnzTe/256BackendProject/assets/53222156/383daee8-1d76-4ddc-a228-d42fa9806981)
+
+![2](https://github.com/kOOnzTe/FreeEnd/assets/53222156/ef008d26-7cdf-4d40-a0e9-93f2f3020d27)
+
+
 --
-![3](https://github.com/kOOnzTe/256BackendProject/assets/53222156/643fbef1-6143-47c9-936c-bd54f30f83c9)
+
+![3](https://github.com/kOOnzTe/FreeEnd/assets/53222156/071ccf24-2adf-45a3-936f-29f09230aca6)
+
+
 --
-![5](https://github.com/kOOnzTe/256BackendProject/assets/53222156/2062a068-b010-4c1d-bd21-214164a000af)
+
+![4](https://github.com/kOOnzTe/FreeEnd/assets/53222156/16dd08c4-5322-424d-bfa2-41a26c847ac9)
+
 --
-![6](https://github.com/kOOnzTe/256BackendProject/assets/53222156/95604ee0-a29f-41da-bdb4-a500ec2ca63f)
+
+![5](https://github.com/kOOnzTe/FreeEnd/assets/53222156/009d294d-390f-42b7-9e0e-9d0fb83fffce)
