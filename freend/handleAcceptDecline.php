@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-require_once 'db.php';
+require_once './db.php';
 
 $sender_id = $_POST['sender_id'];
 $action = $_POST['action'];
