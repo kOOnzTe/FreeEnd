@@ -11,7 +11,7 @@ Users can create posts composed of text and/or images. These posts are visible t
 Friends can comment on posts and indicate their liking or disliking of posts. AJAX is utilized for smooth interaction with comments, likes, and unlikes.
 ### Friend Management
 A searching mechanism is implemented to find friends by name, surname, and email. Adding a friend sends an invitation notification. If the invitation is accepted, a friendship is established. Users can view their friends in a list and have the ability to remove friends. When a friend is deleted, a notification is sent to the affected friend.
-### Security Measures
+### Security Measures
 The application is fortified against common security threats such as SQL injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF) attacks. Passwords are securely hashed to enhance user account protection.
 
 ---
